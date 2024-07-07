@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Starsky06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python, C++, Java
+- 💞️ I’m looking to collaborate on FYP Project
 - 📫 How to reach me ...
-- HI I am the computer science students study in Y1S1 semester
-- Need the senior and teacher to give me some advise and helping in coding
+- HI guys, I am computer science students
+- Need help from the senior to give me some advicse and helping in development
 - TQ~~~
-- I will put 100 percent study hard to learn coding 
+
 <!---
 Starsky06/Starsky06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
