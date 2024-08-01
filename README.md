@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python, C++, Java
 - 💞️ I’m looking to collaborate on FYP Project
 - HI guys, I'm  computer science students
-- Need help from the senior to give me some advicse and helping in development
+- Need help from the senior to give me some advicse and helping in course
 
 
