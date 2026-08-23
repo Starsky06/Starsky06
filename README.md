@@ -34,19 +34,7 @@ I enjoy building practical applications that combine data, AI, and user-friendly
 |---|---|---|
 | [BursaEdge](https://github.com/Starsky06/BursaEdge) | FYP: AI-assisted stock portfolio analysis for Bursa Malaysia. | Python, Streamlit, LSTM, XGBoost, SQLite |
 | [DocAI-SourceMind](https://github.com/Starsky06/DocAI-SourceMind) | AI document-search assistant for PDFs and URLs. | Python, Streamlit, FAISS |
-| [model_web_services-](https://github.com/Starsky06/model_web_services-) | Fishery order anomaly-detection REST API. | Flask, scikit-learn |
-| [Online-Course-Edu](https://github.com/Starsky06/Online-Course-Edu) | Flutter-based online learning application. | Flutter, Dart |
+| [model_Web_Services](https://github.com/Starsky06/model_web_services-) | Fishery order anomaly-detection REST API. | Flask, scikit-learn |
 
 ---
 
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Starsky06&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-# 📫 Contact Me
-
-- GitHub: [@Starsky06](https://github.com/Starsky06)
-- LinkedIn: Add your LinkedIn link here
-- Email: Add a professional email here
