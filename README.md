@@ -1,8 +1,8 @@
 # 👋 About Me:
 
-I’m major in Computer Science, with an interest in Artificial Intelligence, and IT Support.
+I’m fresh major in Computer Science, with an interest in related to Artificial Intelligence and IT Support.
 
-I enjoy building practical applications that combine data, Application AI, and simple interfaces. My current focus is developing AI Agents projects and expanding my skills in Python, Applied AI, and Loop Engineering.
+I enjoy building practical applications that combine Application AI, and simple interfaces UI. My current focus is learning and developing related AI Agents Automation and expanding my skills in Python, AI Framework, Loop Engineering knowledges and IT Support Skills. 
 
 💡 *Keep learning, keep building, keep improving.*
 
